@@ -25,6 +25,7 @@ export interface UserActivityInterface {
     profileImageOptimized: string;
     bot: boolean;
     botExcutedTime: number;
+
 }
 
 export interface UserPositionInterface {
